@@ -18,6 +18,8 @@ We also provide 4 more file that can be used to generate data and relearn the si
 Simply put it in the respective folder and run it.
 3) get_sig_bias - used to generate figure 5
 
+Please use A mutation-level covariate model for mutational signatures - 091122, and Results zip files.
+
 For further information, please contact itay10kahane@gmail.com
 
 
